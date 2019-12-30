@@ -1,0 +1,1 @@
+şu ana kadar hareket etmeyi ve dosya açmayı gördük. şimdi de katmanlara bi bakacağız. photoshopta biz bir şey ekledğimiz zaman bu bir katman olarak eklenir. örneğin bir yazı eklersek bu bir katman olur. bir fotoğraf eklersek bu ayrı bir katman olur. bizim bu katmanlarımız sağ alttaki kutucukta yer alıyor ve biz her yeni bi şe eklediğimizde eklediğimiz şey o kutucukta gözüküyor.
