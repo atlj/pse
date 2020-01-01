@@ -1,0 +1,1 @@
+buraya kadar arkaplanı doldurmayı, bir görseli içeriye aktarmayı, nesnelerin yerlerini düzenlemeyi, düzenleme katmanlarını ve maske oluşturup uygulamayı gördük. şimdi ise afişin geri kalan kısmını bitirip daha sonra da dışarı aktarmayı göreceğiz.[bu noktada insanların afişleri kendi kafalarına göre bitirmelerini sağla ve herkesin yaptığından emin ol]
